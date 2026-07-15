@@ -6,13 +6,13 @@ This app allows you to install and manage applications contained in a single app
 
 <p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="Images/Image-dark.png"><source media="(prefers-color-scheme: light)" srcset="Images/aste.png"><img alt="Feather" src="Images/aste.png"></picture></p>
 
-### AshteMobile
+### YussefSurchi
 
 
 
 ## Download
 
-install AshteMobile 👇
+install YussefSurchi 👇
 
 
 <a href="https://ashtemobile.tututweak.com" target="_blank">
